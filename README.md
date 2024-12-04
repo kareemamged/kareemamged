@@ -2,7 +2,7 @@
 <br>
 
 <div>
- <img alt="Profile Banner" src="https://res.cloudinary.com/dujkjy2e2/image/upload/v1708700541/kenneth_brandon_5_pahnpi.png">
+ <img alt="Profile Banner" src="https://i.ibb.co/GR2W4mt/github-cover.png">
 </div>
 
 # Hey there, it's a pleasure to meet you! 👋
