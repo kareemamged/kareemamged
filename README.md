@@ -2,7 +2,7 @@
 <br>
 
 <div>
- <img alt="Profile Banner" src="https://i.ibb.co/6YL3tY4/github-cover.png" width='1200px'>
+ <img alt="Profile Banner" src="https://i.ibb.co/DpVfd6H/image.jpg" width='1200px'>
 </div>
 
 # Hey there, it's a pleasure to meet you! 👋
