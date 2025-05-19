@@ -2,7 +2,7 @@
 <br>
 
 <div>
- <img alt="Profile Banner" src="https://deeplor.s3.us-west-2.amazonaws.com/matting_original/2024/12/04/3f36daab498e4b778a27428d9c581cd1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241204T195047Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAROYXHKZUSZONTWIG%2F20241204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Signature=ece2c3a627c947b5a27eff43f7adf800bc296109e04792b301968596ea5d19ed" >
+ <img alt="Profile Banner" src="https://voiwxfqryobznmxgpamq.supabase.co/storage/v1/object/public/images//github-cover.png" >
 </div>
 
 # Hey there, it's a pleasure to meet you! 👋
