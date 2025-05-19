@@ -2,7 +2,7 @@
 <br>
 
 <div>
- <img alt="Profile Banner" src="https://voiwxfqryobznmxgpamq.supabase.co/storage/v1/object/public/images//github-cover.png" >
+ <img alt="Profile Banner" src="https://voiwxfqryobznmxgpamq.supabase.co/storage/v1/object/public/images//github-banner.png" >
 </div>
 
 # Hey there, it's a pleasure to meet you! 👋
