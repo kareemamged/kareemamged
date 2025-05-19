@@ -69,7 +69,7 @@ I'm always excited to take on new challenges and explore opportunities to collab
 
 <div id="badges" align="center">
   <br><br>
-  <a href="https://www.linkedin.com/in/kemoamego">
+  <a href="https://www.linkedin.com/in/kareemamged">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
   <a href="https://www.twitter.com/kemoamego">
@@ -78,7 +78,7 @@ I'm always excited to take on new challenges and explore opportunities to collab
   <a href="https://www.instagram.com/kimoamego">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&color=e95950" alt="Instagram Badge" />
   </a>&nbsp;
-  <a href="mailto:kemoamego@gmail.com">
+  <a href="mailto:contact@kareemamged.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
   </a>
 </div>
